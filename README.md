@@ -2,7 +2,7 @@
 
 👋 안녕하세요! 저는 김규현입니다.
 
-![Profile Picture](https://prod-files-secure.s3.us-west-2.amazonaws.com/79cebe00-b3e9-4936-bfcd-96ed5a76c3dd/0cf042b7-0f0b-408f-aa7b-2cb5cb9fe109/72a33309-9352-44a8-86ca-2a1fdf282240.png)
+
 
 ## 👦 프로필
 
