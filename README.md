@@ -30,7 +30,6 @@
 
 ## 🗃 GitHub 프로젝트
 
-- [GitHub Repository](https://github.com/kkkyuhyun/kkkyuhyun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkyuhyun)](https://github.com/kkkyuhyun/github-readme-stats)
 
 
