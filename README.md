@@ -43,7 +43,6 @@
 
 ### 개인 프로젝트
 
-- 바이오헬스 글로벌 영어 조교 활동 내역 (2023.09~12)
 - 데이터 분석 & 머신러닝 프로젝트 (Dataset from Kaggle_Weather Prediction)
 
 ### 팀 프로젝트
@@ -54,6 +53,5 @@
 
 - [KB 부트캠프 IT’S Your Life 5기](https://www.notion.so/KB-IT-S-Your-Life-5-18337c0a59024137b7fa890bb8185233?pvs=21)
 
-## 🖥 기술 스택
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
 
-- [Computer Skill](https://www.notion.so/ff29d93a37ec4c009fae78a0991f0504?pvs=21)
