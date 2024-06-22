@@ -33,6 +33,7 @@
 ## 🗃 GitHub 프로젝트
 
 - [GitHub Repository](https://github.com/kkkyuhyun/kkkyuhyun)
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=kkkyuhyun&show_icons=true&theme=radical)
 
 ## 📜 자격증
 
@@ -53,5 +54,5 @@
 
 - [KB 부트캠프 IT’S Your Life 5기](https://www.notion.so/KB-IT-S-Your-Life-5-18337c0a59024137b7fa890bb8185233?pvs=21)
 
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=kkkyuhyun&show_icons=true&theme=radical)
+
 
