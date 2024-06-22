@@ -31,7 +31,8 @@
 ## 🗃 GitHub 프로젝트
 
 - [GitHub Repository](https://github.com/kkkyuhyun/kkkyuhyun)
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=kkkyuhyun&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkyuhyun)](https://github.com/kkkyuhyun/github-readme-stats)
+
 
 ## 📜 자격증
 
