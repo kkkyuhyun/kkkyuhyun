@@ -8,7 +8,7 @@
 
 - 📅 1999년 5월 25일 출생
 - 🏫 중산고등학교 졸업 (2015.03~2018.02)
-- 🎓 단국대학교 경영공학과 재학 중 (2019.02~2025.08 졸업 예정)
+- 🎓 단국대학교 경영공학과 재학 중 (2019.02~2025.02 졸업 예정)
 
 ## 💡 연락처
 
@@ -53,5 +53,5 @@
 
 - [KB 부트캠프 IT’S Your Life 5기](https://www.notion.so/KB-IT-S-Your-Life-5-18337c0a59024137b7fa890bb8185233?pvs=21)
 
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=kkkyuhyun&show_icons=true&theme=radical)
 
