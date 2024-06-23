@@ -27,10 +27,13 @@
 
 - [네이버 블로그](https://blog.naver.com/sam995)
 - [Instagram (@kgh525)](https://www.instagram.com/kgh525/)
+- [김규현 노션]https://telling-columnist-d6b.notion.site/48658287082e408198677d4c94d192db?pvs=4
 
 ## 🗃 GitHub 프로젝트
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkyuhyun)](https://github.com/kkkyuhyun/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=kkkyuhyun)](https://github.com/kkkyuhyun)
+
 
 
 ## 📜 자격증
@@ -46,7 +49,7 @@
 
 ### 팀 프로젝트
 
-- 경영공학종합설계_주제: FCM(Fuzzy C-Means)알고리즘을 활용한 항만 컨테이너 스태킹
+- 경영공학종합설계_주제: FCM(Fuzzy C-Means) 알고리즘을 활용한 항만 컨테이너 스태킹
 
 ## 🛠 회사 프로젝트
 
