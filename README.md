@@ -27,7 +27,7 @@
 
 - [네이버 블로그](https://blog.naver.com/sam995)
 - [Instagram (@kgh525)](https://www.instagram.com/kgh525/)
-- [김규현 노션]https://telling-columnist-d6b.notion.site/48658287082e408198677d4c94d192db?pvs=4
+- https://telling-columnist-d6b.notion.site/48658287082e408198677d4c94d192db?pvs=4
 
 ## 🗃 GitHub 프로젝트
 
