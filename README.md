@@ -14,6 +14,11 @@
 - 📞 010-3937-5203
 - 💻 [Instagram](https://www.instagram.com/kgh525/)
 
+## 📑 블로그 & 소셜 네트워크
+
+- [네이버 블로그](https://blog.naver.com/sam995)
+- [Instagram (@kgh525)](https://www.instagram.com/kgh525/)
+- https://telling-columnist-d6b.notion.site/48658287082e408198677d4c94d192db?pvs=4
 ## 🏆 수상 경력
 
 - 🥇 단국대학교 DKU DNA AWARDS+ 6대핵심역량실천사례 (문제해결역량부문) 최우수상
@@ -22,12 +27,7 @@
 ## 👔 경력
 
 - 👔 한국수자원공사 수도권수도사업단 경영과 청년인턴 (2023.05~2023.08)
-
-## 📑 블로그 & 소셜 네트워크
-
-- [네이버 블로그](https://blog.naver.com/sam995)
-- [Instagram (@kgh525)](https://www.instagram.com/kgh525/)
-- https://telling-columnist-d6b.notion.site/48658287082e408198677d4c94d192db?pvs=4
+  
 
 ## 📜 자격증
 
